@@ -1,59 +1,32 @@
 ---
-layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Ph.D in Economics, [University of Southern California](https://dornsife.usc.edu/econ/home/), 2021 -
+* M.S. in Economics ([ETE](https://www.tse-fr.eu/master-economic-theory-and-econometrics)), [Toulouse School of Economics](https://www.tse-fr.eu/), 2019 - 2020
+* B.S. in Mathematics, [University of Paris-Sud](https://www.imo.universite-paris-saclay.fr/en/), 2015 - 2016
+* M.S. in Management ([*Grande École*](https://www.hec.edu/fr/grande-ecole-masters/grande-ecole-master-management)), [HEC Paris](https://www.hec.edu/en), 2015 - 2019
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Work Experience
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Research assistant, Stanford University, Summer 2023
+  - Replication of the paper The Zero-Beta Rate (2023) under the supervision of [Sebastian Di Tella](https://gsb-faculty.stanford.edu/sebastian-di-tella/) and [Benjamin Hébert](https://gsb-faculty.stanford.edu/benjamin-hebert/) (portfolio construction, GMM estimation)
+* Research assistant, Directorate General Research, European Central Bank, 2020 - 2021
+  - Research support for The Risk Management Approach to Macro-Prudential Policy and related policy outputs, with [Simone Manganelli](https://www.ecb.europa.eu/pub/research/authors/profiles/simone-manganelli.en.html) and [Robert Engle](https://www.stern.nyu.edu/faculty/bio/robert-engle)
+  - Econometric analysis of the Securities Financing Transactions data (repo market)
+  - Reconstruction of European public debt data from the Securities Holdings Statistics
+
+## Languages
+
+French (native), English (fluent), Spanish (fluent), German (basics)
+
+## Programming
+
+Python, R, Matlab, Stata, SQL, Unix Shell, git, $\LaTeX$
