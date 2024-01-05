@@ -16,7 +16,7 @@ Below is a list of 20 important mathematical theorems for economics with standal
 1. [Kakutani–Glicksberg–Ky Fan fixed point theorem](/files/L1.pdf)
 2. [Von Neumann–Sion minimax theorem](/files/L2.pdf)
 3. [Tarski’s fixed point theorem](/files/L3.pdf)
-4. [Banach’s fixed point theorem](/files/L4.pdf])
+4. [Banach’s fixed point theorem](/files/L4.pdf)
 5. [Hahn–Banach extension theorem](/files/L5.pdf)
 6. [Farkas’ lemma](/files/L6.pdf)
 7. [Karush–Kuhn–Tucker conditions](/files/L7.pdf)
