@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
 ---
 
-This page is for lecture notes and personal notes that I have written over the years. Many of those notes are for self-use, so be careful when using. Please contact me if you spot any mistake or if you have any suggestion. I also list classes I TAed at USC.
+This page is for lecture notes and personal notes that I have written over the years. Many of those notes are for self-use, so be careful when using. Please contact me if you spot any mistake or if you have any suggestion. I also list classes I TAed for at USC.
 
 ## Mathematics for economics and econometrics
 
@@ -16,7 +16,7 @@ Below is a list of 20 important mathematical theorems for economics with standal
 2. [Von Neumann–Sion minimax theorem](L2.pdf)
 3. [Tarski’s fixed point theorem](L3.pdf)
 4. [Banach’s fixed point theorem](L4.pdf])
-5. [Hahn–Banach extension theorem][L5.pdf]
+5. [Hahn–Banach extension theorem](L5.pdf)
 6. [Farkas’ lemma](L6.pdf)
 7. [Karush–Kuhn–Tucker conditions](L7.pdf)
 8. Pontryagin’s maximum principle
