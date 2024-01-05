@@ -12,7 +12,7 @@ This page is for class material when I perform TA work at USC as well as for per
 
 Here is a list of 20 important mathematical theorems for economics with standalone proofs. The notes will be uploaded as they become available.
 
-1. Kakutani–Glicksberg–Ky Fan fixed point theorem
+1. [Kakutani–Glicksberg–Ky Fan fixed point theorem](L1.pdf)
 2. Von Neumann–Sion minimax theorem
 3. Tarski’s fixed point theorem
 4. Banach’s fixed point theorem
