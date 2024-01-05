@@ -8,11 +8,11 @@ redirect_from:
 
 ## Research assistantship and collaboration
 
-If you want to work with me on some new projects, send me an email!
+If you want to work with me on some new projects, please semd me an email.
 
 ## Reading list
 
-I like reading, see my Goodreads profile to see the last books I read!
+I like reading, see my [Goodreads profile](https://www.goodreads.com/review/list/162952279?shelf=read) to see the last books I read.
 
 ## Contact me
 

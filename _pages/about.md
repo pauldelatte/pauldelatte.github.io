@@ -10,9 +10,7 @@ redirect_from:
 
 I am a PhD student in the [Economics department](https://dornsife.usc.edu/econ/home/) at the [University of Southern California](https://www.usc.edu/). 
 
-I specialize in econometrics. I try to develop statistical procedures for economic problems that are robust, computable, and interpretable. I also enjoy working with data. In particular, I have accumulated experience working with business data and macro-finance data. I am open to collaborations, both on theory problems and on applied estimation, either structural or causal!
-
-I also enjoy discussing a lot of topics, related to economics or not! See Other for more.
+I specialize in econometrics and statistics. I have accumulated experience working with business data and macro-finance data. I am open to collaborations, both on theoretical and applied problems.
 
 You can sometimes find me at the [USC Marshall School of Business](https://www.marshall.usc.edu/), either in the department of [Data Sciences and Operations](https://www.marshall.usc.edu/departments/data-sciences-and-operations) or in the [Finance and Business Economics](https://www.marshall.usc.edu/departments/finance-business-economics/) department.
 
@@ -21,8 +19,9 @@ You can sometimes find me at the [USC Marshall School of Business](https://www.m
 ## Research interests
 
 - Statistical decision theory: minimax theorems; numerical approximation of least favorable priors and minimax rules; estimation in restricted parameter spaces.
-- Causal inference and missing data problems: robust imputation; causal inference in misspecified models; inference with adaptively collected data (A/B testing and bandit).
-- Bayesian inference: Bayesian nonparametric causal inference; Bayesian estimation of DSGE models; Bayesian estimation of choice models.
+- Causal inference, missing data, and experimental methods: weak identification and uniform inference; inference with adaptively collected data; A/B testing with market power.
+- Bayesian inference: Bayesian nonparametric inference; Bayesian estimation of economic models; prior sensitivity; frequentist properties of Bayesian methods.
+- Resampling and simulation methods: bootsrap consistency; fast estimation of economic models.
 
 ## Education
 
