@@ -8,7 +8,7 @@ redirect_from:
 
 ## Research assistantship and collaboration
 
-If you want to work with me on some new projects, please semd me an email.
+If you want to work with me on some new projects, please send me an email.
 
 ## Reading list
 

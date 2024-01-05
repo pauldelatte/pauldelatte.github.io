@@ -7,7 +7,9 @@ redirect_from:
 - /notes/
 ---
 
-This page is for lecture notes and personal notes that I have written over the years. Many of those notes are for self-use, so be careful when using. Please contact me if you spot any mistake or if you have any suggestion. I also list courses I TAed for at USC.
+This page is for lecture notes and personal notes that I have written over the years. Many of those notes are for self-use, so be careful when using. Please contact me if you spot any mistake or if you have any suggestion.
+
+I also list courses I TAed for at USC, but material can only be found on Blackboard.
 
 ## Mathematics for economics and econometrics
 
