@@ -12,7 +12,7 @@ I am available to help with your statistical and economic projects. Please send 
 
 ## Reading list
 
-See my [Goodreads profile](https://www.goodreads.com/review/list/162952279?shelf=read) to see the last books I have read.
+The last books I have read can be found on my [Goodreads profile](https://www.goodreads.com/review/list/162952279?shelf=read).
 
 ## Contact me
 

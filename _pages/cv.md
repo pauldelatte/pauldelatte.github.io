@@ -16,6 +16,9 @@ redirect_from:
 
 ## Work Experience
 
+* Statistical consulting, 2023 - 
+  - [USC Gould School of Law](https://gould.usc.edu/)
+  - [skfolio](https://skfolio.org/index.html)
 * Research assistant, [Stanford University](https://www.stanford.edu/), Summer 2023
   - Replication of the paper [The Zero-Beta Interest Rate](https://gsb-faculty.stanford.edu/benjamin-hebert/files/2024/02/TheZeroBetaRate_v8.pdf) (2024) under the supervision of [Sebastian Di Tella](https://gsb-faculty.stanford.edu/sebastian-di-tella/), [Benjamin Hébert](https://gsb-faculty.stanford.edu/benjamin-hebert/), and [Pablo Kurtlat](https://sites.google.com/view/pkurlat/home) (portfolio construction, GMM estimation)
 * Research assistant, Directorate General Research, [European Central Bank](https://www.ecb.europa.eu/pub/html/index.en.html), 2020 - 2021
