@@ -8,20 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [Economics department](https://dornsife.usc.edu/econ/home/) at the [University of Southern California](https://www.usc.edu/). 
+I am a PhD candidate in the [Department of Economics](https://dornsife.usc.edu/econ/home/) at the [University of Southern California](https://www.usc.edu/). 
 
-I specialize in econometrics and statistics. I have accumulated experience working with business data and macro-finance data. I am open to collaborations, both on theoretical and applied problems.
+I specialize in econometrics and statistics. I have accumulated experience working with economic data and economic models as well as programming statistical and econometric procedures. My own research projects are available [here](https://pauldelatte.github.io/research/).
 
-You can sometimes find me at the [USC Marshall School of Business](https://www.marshall.usc.edu/), either in the department of [Data Sciences and Operations](https://www.marshall.usc.edu/departments/data-sciences-and-operations) or in the [Finance and Business Economics](https://www.marshall.usc.edu/departments/finance-business-economics/) department.
-
-
+You can sometimes find me at the [USC Marshall School of Business](https://www.marshall.usc.edu/), either in the [Department of Data Sciences and Operations](https://www.marshall.usc.edu/departments/data-sciences-and-operations) or in the [Department of Finance and Business Economics](https://www.marshall.usc.edu/departments/finance-business-economics/).
 
 ## Research interests
 
-- Statistical decision theory: minimax theorems; numerical approximation of least favorable priors and minimax rules; estimation in restricted parameter spaces.
-- Causal inference, missing data, and experimental methods: weak identification and uniform inference; inference with adaptively collected data; A/B testing with market power.
-- Bayesian inference: Bayesian nonparametric inference; Bayesian estimation of economic models; prior sensitivity; frequentist properties of Bayesian methods.
-- Resampling and simulation methods: bootsrap consistency; fast estimation of economic models.
+- Statistical theory: non-parametric and semi-parametric inference; plug-in estimators and influence function-based corrections; kernel estimators and bandwidth selection; kNN and matching estimators; bootstrap for semi-parametric problems; statistical minimax theorems
+- Causal inference: causal modeling and statistical methodology; observational and experimental identification strategies for economic applications; inference with adaptive experiments
+- Robust econometrics: numerical computations of gamma-minimax procedures; calibration of uncertainty sets for economic applications; replicability of observational and experimental procedures
 
 ## Education
 

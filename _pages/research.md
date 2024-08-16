@@ -8,13 +8,11 @@ redirect_from:
 
 ## Working papers
 
-- On the existence of least favorable priors, August 2023
+- Average density: weak limits and inference in non-regular semi-parametric problems (August 2024)
+- Description, explanation, and causation: what is statistical in causal inference? (August 2024)
+- Some existence results for maximin priors in statistical minimax theorems (August 2024)
 
-## Work in progress
+## Notes and comments
 
-- Numerical approximation of least favorable priors, August 2023
-- Statistical minimax theorems in the q-vague topology, August 2023
-
-## Other projects
-
-- Comment on Wager and Xu (2023), March 2023
+- Numerical computation of maximin priors and minimax rules
+- Comment on "Weak Signal Asymptotics for Sequentially Randomized Experiments" by Kuang and Wager (2023)

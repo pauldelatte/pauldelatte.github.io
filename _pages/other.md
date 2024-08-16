@@ -6,13 +6,13 @@ author_profile: true
 redirect_from: 
 ---
 
-## Research assistantship and collaboration
+## Research, work, and collaboration
 
-If you want to work with me on some new projects, please send me an email.
+I am available to help with your statistical and economic projects. Please send me an email for inquiry.
 
 ## Reading list
 
-I like reading, see my [Goodreads profile](https://www.goodreads.com/review/list/162952279?shelf=read) to see the last books I have read.
+See my [Goodreads profile](https://www.goodreads.com/review/list/162952279?shelf=read) to see the last books I have read.
 
 ## Contact me
 
