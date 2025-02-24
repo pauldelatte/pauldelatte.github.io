@@ -12,7 +12,7 @@ redirect_from:
 * Ph.D in Economics, [University of Southern California](https://dornsife.usc.edu/econ/home/), 2021 -
 * M.Sc. in [Economic Theory and Econometrics](https://www.tse-fr.eu/master-economic-theory-and-econometrics), [Toulouse School of Economics](https://www.tse-fr.eu/), 2019 - 2020
 * B.Sc. in Mathematics, [University of Paris-Sud](https://www.imo.universite-paris-saclay.fr/en/), 2015 - 2016
-* [Grande École](https://www.hec.edu/fr/grande-ecole-masters/grande-ecole-master-management) Program - M.Sc. in Management, [HEC Paris](https://www.hec.edu/en), 2015 - 2019
+* [Grande École](https://www.hec.edu/fr/grande-ecole-masters/grande-ecole-master-management) - M.Sc. in Management, [HEC Paris](https://www.hec.edu/en), 2015 - 2019
 
 ## Work Experience
 
