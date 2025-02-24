@@ -10,9 +10,9 @@ redirect_from:
 
 - Description and explanation, 2025
 
-- Average density: weak limits and inference in non-regular semi-parametric problems, 2025, *submitted*)
+- Average density: weak limits and inference in non-regular semi-parametric problems, 2025 (*submitted*)
 
-- Some existence results for maximin priors in statistical minimax theorems, 2024, *submitted*
+- Some existence results for maximin priors in statistical minimax theorems, 2024 (*submitted*)
 
 ## Work in progress
 
