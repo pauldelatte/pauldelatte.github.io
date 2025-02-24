@@ -21,6 +21,8 @@ This page is mostly for self-use. Codes are available upon request. If you see s
 
 - The Zero-Beta Rate (2023): replication code in Python for portfolio construction and GMM estimation, available upon approval from the authors
 
+- Code for the computation of maximin priors and minimax rules (Kempthorne (1987) and Chamberlain (2000))
+
 ## Useful datasource
 
 - Macro/Finance: WRDS, FRED, BEA

@@ -9,7 +9,7 @@ redirect_from:
 
 This page is for lecture notes and personal notes that I have written over the years. Many of those notes are for self-use, so be careful when using. Please contact me if you spot any mistake or if you have any suggestion.
 
-I also list courses I TAed for at USC, but material for them can only be found on USC intranet.
+I also list courses I was a TA for at USC, but material for them can only be found on the USC intranet.
 
 ## Mathematics for economics and econometrics
 
@@ -51,5 +51,5 @@ Below is a list of 20 important mathematical theorems for economics with standal
 ## TA courses at USC
 
 - ECON609 - Econometric Methods (PhD) - Spring 2024
-- ECON611 - Probability and Statistics for Economists (PhD) - Fall 2023
-- ECON513 - Practicte of Econometrics (Master) - Fall 2023
+- ECON611 - Probability and Statistics for Economists (PhD) - Fall 2023, Fall 2024
+- ECON513 - Practice of Econometrics (Master) - Fall 2023, Fall 2024, Spring 2025

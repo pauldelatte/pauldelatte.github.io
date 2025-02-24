@@ -8,11 +8,16 @@ redirect_from:
 
 ## Working papers
 
-- Average density: weak limits and inference in non-regular semi-parametric problems (August 2024)
-- Description, explanation, and causation: what is statistical in causal inference? (August 2024)
-- Some existence results for maximin priors in statistical minimax theorems (August 2024)
+- Description and explanation
+- Average density: weak limits and inference in non-regular semi-parametric problems (*submitted*)
+- Some existence results for maximin priors in statistical minimax theorems (*submitted*)
+
+## Work in progress
+
+- A truncated kNN estimator of the average density
+- What is statistical in causal inference?
 
 ## Notes and comments
 
-- Numerical computation of maximin priors and minimax rules
+- Numerical computation of maximin priors and minimax rules (Kempthorne (1987) and Chamberlain (2000))
 - Comment on "Weak Signal Asymptotics for Sequentially Randomized Experiments" by Kuang and Wager (2023)

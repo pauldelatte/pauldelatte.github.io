@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Paul Delatte"
   avatar           : "pauldelatte2.jpg"
-  bio              : "PhD Student at USC"
+  bio              : "PhD Candidate at USC"
   location         : "Los Angeles, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/pauldelatte/
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
