@@ -8,11 +8,11 @@ redirect_from:
 
 ## Working papers
 
-- Description and explanation, 2025
+1. Some existence results for maximin priors in statistical minimax theorems, 2024 (*submitted*)
 
-- Average density: weak limits and inference in non-regular semi-parametric problems, 2025 (*submitted*)
+2. Average density: weak limits and inference in non-regular semi-parametric problems, 2025 (*submitted*)
 
-- Some existence results for maximin priors in statistical minimax theorems, 2024 (*submitted*)
+3. Description and explanation, 2025
 
 ## Work in progress
 
