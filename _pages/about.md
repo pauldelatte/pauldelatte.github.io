@@ -10,9 +10,9 @@ redirect_from:
 
 I am a PhD candidate in [Economics](https://dornsife.usc.edu/econ/home/) at the [University of Southern California](https://www.usc.edu/). 
 
-I specialize in econometric theory. My [research projects](https://pauldelatte.github.io/research/) tackle statistical and optimization problems used in causal inference and model-based inference.
+I specialize in econometric theory. My [research projects](https://pauldelatte.github.io/research/) tackle statistical and optimization problems commonly encountered in causal inference and model-based inference.
 
-I have experience using state-of-the-art machine learning methods on large datasets and solving optimization problems. I have helped research teams in industry and academia solve pricing problems, experimental design problems, and portfolio optimization problems. 
+I have experience using advanced machine learning methods on large datasets and solving difficult optimization problems. I have helped research teams in industry and academia solve pricing problems, experimental design problems, and portfolio optimization problems. 
 
 My CV is available [here](https://pauldelatte.github.io/cv/).
 
