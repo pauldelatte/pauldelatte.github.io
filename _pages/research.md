@@ -8,14 +8,14 @@ redirect_from:
 
 ## Working papers
 
-1. [Some existence results for maximin priors in statistical minimax theorems](/files/MinimaxResultsDelatte2024.pdf), 2024 (*submitted*)
-2. [Average density: weak limits and inference in non-regular semi-parametric problems](/files/AverageDensityDelatte2025.pdf), 2025 (*submitted*)
-3. [Description and explanation](/files/DvEDelatte2025.pdf), 2025
+1. [Some existence results for maximin priors in statistical minimax theorems](/files/MinimaxResultsDelatte2024.pdf), 2024, Under Review
+2. [Average density: weak limits and inference in non-regular semi-parametric problems](/files/AverageDensityDelatte2025.pdf), 2025, Under Review
+3. *Redacted title pending double-blind review*, 2025, Submitted
 
 ## Work in progress
 
-1. A truncated kNN estimator of the average density
-2. What is statistical in causal inference?
+1. A truncated kNN estimator of the average density, 2025+
+2. What is statistical in causal inference?, 2025+
 
 ## Notes and comments
 
