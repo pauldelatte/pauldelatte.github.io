@@ -9,13 +9,13 @@ redirect_from:
 ## Working papers
 
 \[3\] [The role of unobservables in statistics and econometrics](/files/UnobservablesDelatte2025.pdf)\
- $~~~$ 2025, New Draft
+ $~~~$ 2025, New draft
 
 \[2\] [Average density: weak limits and inference in non-regular semi-parametric problems](/files/AverageDensityDelatte2025.pdf)\
-$~~~$ 2025, Under Review
+$~~~$ 2025, Under review
 
 \[1\] [Some existence results for maximin priors in statistical minimax theorems](/files/MinimaxResultsDelatte2024.pdf)\
-$~~~$ 2024, Under Review
+$~~~$ 2024, Under review
 
 ## Work in progress
 
