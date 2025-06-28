@@ -8,8 +8,8 @@ redirect_from:
 
 ## Working papers
 
-\[3\] [The role of unobservables in statistics and econometrics](/files/UnobservablesDelatte2025.pdf)
- $~~~$ 2025, New Draft (supersedes "Description and explanation")
+\[3\] [The role of unobservables in statistics and econometrics](/files/UnobservablesDelatte2025.pdf)\
+ $~~~$ 2025, New Draft
 
 \[2\] [Average density: weak limits and inference in non-regular semi-parametric problems](/files/AverageDensityDelatte2025.pdf)\
 $~~~$ 2025, Under Review
