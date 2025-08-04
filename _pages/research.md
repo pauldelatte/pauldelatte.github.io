@@ -9,7 +9,7 @@ redirect_from:
 ## Working papers
 
 \[3\] [The role of unobservables in statistics and econometrics](/files/UnobservablesDelatte2025.pdf)\
- $~~~$ 2025, New draft
+ $~~~$ 2025, Under review
 
 \[2\] [Average density: weak limits and inference in non-regular semi-parametric problems](/files/AverageDensityDelatte2025.pdf)\
 $~~~$ 2025, Under review
@@ -18,6 +18,10 @@ $~~~$ 2025, Under review
 $~~~$ 2024, Under review
 
 ## Work in progress
+
+\[4\] The real price of land: taxes and urban policies in Los Angeles (2025+)
+
+\[3\] Ensemble methods for panel-data forecasting (2025+)
 
 \[2\] What is statistical in causal inference?, 2025+
 
