@@ -15,19 +15,24 @@ redirect_from:
 $~~~$ 2025, Under review
 
 \[1\] [Some existence results for maximin priors in statistical minimax theorems](/files/MinimaxResultsDelatte2024.pdf)\
-$~~~$ 2024, Under review
+$~~~$ 2024, Reject and resubmit, [Electronic Journal of Statistics](https://projecteuclid.org/journals/electronic-journal-of-statistics/scope-and-details)
 
 ## Work in progress
 
-\[4\] The real price of land: taxes and urban policies in Los Angeles (2025+)
+\[6\] Optimal predictions, concentration, and the curse of dimensionality, 2025+
 
-\[3\] Ensemble methods for panel-data forecasting (2025+)
+\[5\] Ensemble methods for panel-data forecasting, 2025+
+
+\[4\] A comparison of methods to approximate maximin priors and minimax rules, 2025+ 
+
+\[3\] A counterexample to some diffusion limit in [Kuang and Wager (2023)](https://pubsonline.informs.org/doi/10.1287/mnsc.2023.4964), 2025+
 
 \[2\] What is statistical in causal inference?, 2025+
 
 \[1\] A truncated kNN estimator of the average density, 2025+
 
-## Notes and comments
+## Policy-oriented research
 
-- Numerical computation of maximin priors and minimax rules using Kempthorne (1987) and Chamberlain (2000)
-- Comment on "Weak Signal Asymptotics for Sequentially Randomized Experiments" by Kuang and Wager (2023)
+\[2\] Generating counterexamples in mathematics using LLMs, 2025+
+
+\[1\] The real price of land: taxes and urban policies in Los Angeles, 2025+

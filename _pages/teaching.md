@@ -7,13 +7,11 @@ redirect_from:
 - /notes/
 ---
 
-This page is for lecture notes and personal notes that I have written over the years. Many of those notes are for self-use, so be careful when using. Please contact me if you spot any mistake or if you have any suggestion.
-
-I also list courses I was a TA for at USC, but material for them can only be found on the USC intranet.
+This page collects some mathematical notes that I have written over the years on topics of interest to me. Please be careful when using the notes as they likely contain mistakes and typos. If you spot any or if you have any suggestion, please contact me.
 
 ## Mathematics for economics and econometrics
 
-Below is a list of 20 important mathematical theorems for economics with standalone proofs. The notes will be uploaded as they become available.
+This is a collection of 20 mathematical theorems with standalone proofs. I have chosen these theorems as the most likely to be encountered by economists and econometricians -- they cover a wide range of mathematical topics from topology to integration theory to optimization theory to probability theory. The proofs of all results are not original but they are complete in the sense that every intermediary result is proved. Moreover, the notes contain explicit references for each theorem and each intermediary result used in the proofs. Theorems are often stated under quite weak conditions (generally weaker than encountered in economic and econometric theory) but not necessarily the weakest conditions possible. I reference stronger results and their proofs whenever possible. For the moment, only 12 theorems are available. The plan is to complete the proofs for all 20 theorems and re-organize the notes to briefly explain the role of each theorem and include a few applications in economics, statistics, and applied mathematics. The hope is that these notes can be collected in a book intended for graduate students in economics, statistics, and applied mathematics.
 
 1. [Kakutani–Glicksberg–Ky Fan fixed point theorem](/files/L1.pdf)
 2. [Von Neumann–Sion minimax theorem](/files/L2.pdf)
@@ -39,6 +37,8 @@ Below is a list of 20 important mathematical theorems for economics with standal
 
 ## Miscellaneous topics in probability and statistics
 
+This is a collection of notes I have written to (re-)familiarize myself with some some topics in probability and statistics when working on some related problems. Please be careful when using the notes as they likely contain mistakes and typos and are not organized carefully.
+
 - [Concentration inequalities](/files/concentration_inequalities.pdf)
 - [Maximal inequalities](/files/maximal_inequalities.pdf)
 - [Superefficient estimation and Le Cam’s rescue](/files/superefficient_estimation.pdf)
@@ -50,6 +50,8 @@ Below is a list of 20 important mathematical theorems for economics with standal
 
 ## TA courses at USC
 
+This is the list of classes I have been a TA for at USC during my PhD -- I have been notably responsible for organizing sessions on mathematics, Stata, and Python. I plan to upload some of the Stata and Python resources I have used for these sessions at some point in the future.
+
+- ECON611 - Probability and Statistics for Economists (PhD) - Fall 2023, Fall 2024, Fall 2025
 - ECON609 - Econometric Methods (PhD) - Spring 2024
-- ECON611 - Probability and Statistics for Economists (PhD) - Fall 2023, Fall 2024
-- ECON513 - Practice of Econometrics (Master) - Fall 2023, Fall 2024, Spring 2025
+- ECON513 - Practice of Econometrics (Master) - Fall 2023, Fall 2024, Spring 2025, Fall 2025
