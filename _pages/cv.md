@@ -28,9 +28,9 @@ redirect_from:
 
 ## Teaching Experience
 
-* ECON609 - Econometric Methods (PhD) - Spring 2024
-* ECON611 - Probability and Statistics for Economists (PhD) - Fall 2023, Fall 2024
-* ECON513 - Practice of Econometrics (Master) - Fall 2023, Fall 2024, Spring 2025
+- ECON611 - Probability and Statistics for Economists (PhD) - Fall 2023, Fall 2024, Fall 2025
+- ECON513 - Practice of Econometrics (Master) - Fall 2023, Fall 2024, Spring 2025, Fall 2025
+- ECON609 - Econometric Methods (PhD) - Spring 2024
 
 ## Languages
 

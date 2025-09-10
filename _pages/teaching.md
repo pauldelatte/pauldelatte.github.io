@@ -48,10 +48,10 @@ This is a collection of notes I have written to (re-)familiarize myself with som
 - [Semiparametric estimation: efficiency bounds](/files/semiparametric_efficiency.pdf)
 - [Continuous-time markov processes, martingale problem, and diffusion approximation](/files/diffusion_approximation.pdf)
 
-## TA courses at USC
+## TA classes at USC
 
 This is the list of classes I have been a TA for at USC during my PhD -- I have been notably responsible for organizing sessions on mathematics, Stata, and Python. I plan to upload some of the Stata and Python resources I have used for these sessions at some point in the future.
 
 - ECON611 - Probability and Statistics for Economists (PhD) - Fall 2023, Fall 2024, Fall 2025
-- ECON609 - Econometric Methods (PhD) - Spring 2024
 - ECON513 - Practice of Econometrics (Master) - Fall 2023, Fall 2024, Spring 2025, Fall 2025
+- ECON609 - Econometric Methods (PhD) - Spring 2024
