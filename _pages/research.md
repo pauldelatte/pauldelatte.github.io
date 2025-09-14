@@ -15,7 +15,7 @@ redirect_from:
 $~~~$ 2025, Under review
 
 \[1\] [Some existence results for maximin priors in statistical minimax theorems](/files/MinimaxResultsDelatte2024.pdf)\
-$~~~$ 2024, Rej&R, *Electronic Journal of Statistics*
+$~~~$ 2024, Reject and resubmit, *Electronic Journal of Statistics*
 
 ## Work in progress
 
