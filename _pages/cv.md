@@ -17,17 +17,17 @@ redirect_from:
 ## Selected Work Experiences
 
 * Teaching Assistant in Economics, [University of Southern California](https://dornsife.usc.edu/econ/home/), 2023 -
-- ECON609 - Econometric Methods (PhD) - Spring 2024
-- ECON611 - Probability and Statistics for Economists (PhD) - Fall 2023, Fall 2024, Fall 2025
-- ECON513 - Practice of Econometrics (Master) - Fall 2023, Fall 2024, Spring 2025, Fall 2025
+  - ECON609 - Econometric Methods (PhD) - Spring 2024
+  - ECON611 - Probability and Statistics for Economists (PhD) - Fall 2023, Fall 2024, Fall 2025
+  - ECON513 - Practice of Econometrics (Master) - Fall 2023, Fall 2024, Spring 2025, Fall 2025
 * Research Assistant in Economics, [Stanford University](https://www.stanford.edu/), 2023 - 2023
   - Blind replication of the paper ["The Zero-Beta Interest Rate"](https://gsb-faculty.stanford.edu/benjamin-hebert/files/2024/02/TheZeroBetaRate_v8.pdf) (2024) on behalf of [Sebastian Di Tella](https://gsb-faculty.stanford.edu/sebastian-di-tella/), [Benjamin Hébert](https://gsb-faculty.stanford.edu/benjamin-hebert/), [Pablo Kurlat](https://sites.google.com/view/pkurlat/home), and [Qitong Wang](https://qitongwang.github.io/)
   - Tools: Factor models, Beta-sorting, cuGMM, Ledoit–Wolf covariance estimaton
 * Research Assistant in Economics, [European Central Bank](https://www.ecb.europa.eu/pub/html/index.en.html) (DG Research), 2020 - 2021
   - Research support for papers on macro-prudential regulation and macroeconomic
 forecasting under the supervision of [Simone Manganelli](https://www.simonemanganelli.org/Simone/Home.html)
- - Network analysis of the European repo market (SFT data) with [Peter Hoffmann](https://sites.google.com/site/hoffmannp/home)
- - Tools: Quantile VAR, Impulse response functions, VAR forecasting
+  - Network analysis of the European repo market (SFT data) with [Peter Hoffmann](https://sites.google.com/site/hoffmannp/home)
+  - Tools: Quantile VAR, Impulse response functions, VAR forecasting
 
 ## Languages
 
