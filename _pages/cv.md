@@ -36,3 +36,10 @@ English (fluent), French (native), Spanish (basic), German (basic)
 ## Programming
 
 Python (main), R, Matlab, Stata, SQL
+
+## References
+
+		| Hyungsik Roger Moon | Geert Ridder | Pablo Kurlat |
+    |	Professor, Economics Department | Professor, Economics Department | Professor, Economics Department |
+    | University of Southern California | University of Southern California | University of Southern California |
+		| moonr@usc.edu | ridder@usc.edu | kurlat@usc.edu |
