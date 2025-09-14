@@ -39,7 +39,17 @@ Python (main), R, Matlab, Stata, SQL
 
 ## References
 
-| Hyungsik Roger Moon | Geert Ridder | Pablo Kurlat |
-|	Professor, Economics Department | Professor, Economics Department | Professor, Economics Department |
-| University of Southern California | University of Southern California | University of Southern California |
-| moonr@usc.edu | ridder@usc.edu | kurlat@usc.edu |
+Hyungsik Roger Moon
+Professor, Economics Department
+University of Southern California
+moonr@usc.edu
+
+Geert Ridder
+Professor, Economics Department
+University of Southern California
+ridder@usc.edu
+		
+Pablo Kurlat
+Professor, Economics Department
+University of Southern California
+kurlat@usc.edu
