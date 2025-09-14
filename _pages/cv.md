@@ -39,17 +39,8 @@ Python (main), R, Matlab, Stata, SQL
 
 ## References
 
-Hyungsik Roger Moon
-Professor, Economics Department
-University of Southern California
-moonr@usc.edu
+[Hyungsik Roger Moon](https://sites.google.com/usc.edu/moonr/home), Professor, University of Southern California, moonr@usc.edu
 
-Geert Ridder
-Professor, Economics Department
-University of Southern California
-ridder@usc.edu
+[Geert Ridder](https://scholar.google.com/citations?user=5CgnV-MAAAAJ&hl=en), Professor, University of Southern California, ridder@usc.edu
 		
-Pablo Kurlat
-Professor, Economics Department
-University of Southern California
-kurlat@usc.edu
+[Pablo Kurlat](https://sites.google.com/view/pkurlat/home), Professor, University of Southern California, kurlat@usc.edu
