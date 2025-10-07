@@ -9,13 +9,13 @@ redirect_from:
 ## Working papers
 
 \[3\] [Integrated square of a density: asymptotic normality and non-regular semi-parametric inference](/files/ISDDelatte2025.pdf)\
-$~~~$ 2025, Submitted (*New version*!)
+$~~~$ 2025, Submitted (*new version*!)
 
 \[2\] [The role of unobservables in statistics and econometrics](/files/UnobservablesDelatte2025.pdf)\
  $~~~$ 2025, Under review
 
 \[1\] [Some existence results for maximin priors in statistical minimax theorems](/files/MinimaxResultsDelatte2024.pdf)\
-$~~~$ 2024, Reject and resubmit, *Electronic Journal of Statistics* (*New version coming soon*)
+$~~~$ 2024, Reject and resubmit, *Electronic Journal of Statistics*
 
 ## Work in progress
 
