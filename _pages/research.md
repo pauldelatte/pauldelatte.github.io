@@ -8,8 +8,8 @@ redirect_from:
 
 ## Working papers
 
-\[3\] [Integrated square of a density: asymptotic normality and non-regular semi-parametric inference](/files/ISDDelatte2025.pdf)\
-$~$ 2025, Submitted (New version!)
+\[3\] Integrated square of a density: semi-parametric inference under low regularity\
+$~$ 2025, Submitted (New version coming soon!)
 
 \[2\] [The role of unobservables in statistics and econometrics](/files/UnobservablesDelatte2025.pdf)\
  $~$ 2025, Under review
