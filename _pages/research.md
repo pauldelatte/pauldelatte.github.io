@@ -8,7 +8,7 @@ redirect_from:
 
 ## Working papers
 
-\[3\] Integrated square of a density: semi-parametric inference under low regularity\
+\[3\] Integrated square of a density: local regularity and semiparametric inference\
 $~$ 2025, (New version coming soon!)
 
 \[2\] [The role of unobservables in statistics and econometrics](/files/UnobservablesDelatte2025.pdf)\
@@ -18,6 +18,8 @@ $~$ 2025, (New version coming soon!)
 $~$ 2024, Reject and resubmit, *Electronic Journal of Statistics* (New version coming soon!)
 
 ## Work in progress
+
+\[7\] The geometry of semiparametric inference, 2025+
 
 \[6\] Optimal predictions, concentration, and the curse of dimensionality, 2025+
 
@@ -29,10 +31,10 @@ $~$ 2024, Reject and resubmit, *Electronic Journal of Statistics* (New version c
 
 \[2\] What is statistical in causal inference?, 2025+
 
-\[1\] A truncated kNN estimator of the average density, 2025+
+\[1\] Truncated kNN estimators of integral functionals, 2025+
 
 ## Policy-oriented research
 
-\[2\] Generating counterexamples in mathematics using LLMs, 2025+
+\[2\] Generating counterexamples using LLMs, 2025+
 
 \[1\] The real price of land: taxes and urban policies in Los Angeles, 2025+
