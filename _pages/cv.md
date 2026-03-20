@@ -20,6 +20,7 @@ redirect_from:
   - ECON 609 - Econometric Methods (PhD)
   - ECON 611 - Probability and Statistics for Economists (PhD)
   - ECON 513 - Practice of Econometrics (Master)
+  - ECON 480 - Economics of Industrial Organization (B.Sc.)
 * Research Assistant in Economics, [Stanford University](https://www.stanford.edu/), 2023 - 2023
   - Blind replication of the paper ["The Zero-Beta Interest Rate"](https://gsb-faculty.stanford.edu/benjamin-hebert/files/2024/02/TheZeroBetaRate_v8.pdf) (2024) on behalf of [Sebastian Di Tella](https://gsb-faculty.stanford.edu/sebastian-di-tella/), [Benjamin Hébert](https://gsb-faculty.stanford.edu/benjamin-hebert/), [Pablo Kurlat](https://sites.google.com/view/pkurlat/home), and [Qitong Wang](https://qitongwang.github.io/)
   - Tools: Factor models, Beta-sorting, cuGMM, Ledoit–Wolf covariance estimaton
