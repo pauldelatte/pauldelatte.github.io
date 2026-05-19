@@ -12,7 +12,7 @@ redirect_from:
 $~$ May 2026, **New paper**
 
 \[2\] [Existence of maximin priors and statistical minimax theorems](/files/MinimaxDelatteRevisedv2.pdf)\
-$~$ March 2026, **New version**
+$~$ March 2026, **New version with new results**\
 $~$ Previous version: Reject and resubmit, *Electronic Journal of Statistics*
 
 \[1\] [The role of unobservables in statistics and econometrics](/files/UnobservablesDelatte2025.pdf)\
