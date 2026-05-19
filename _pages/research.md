@@ -8,11 +8,11 @@ redirect_from:
 
 ## Working papers
 
-\[3\] [Existence of maximin priors and statistical minimax theorems](/files/MinimaxDelatteRevisedMarch2026.pdf)\
-$~$ 2026, Reject and resubmit, *Electronic Journal of Statistics* (New version!)
+\[3\] [Integrated square of a density: semiparametric inference beyond the $o_p(n^{-1/4})$ rule](/files/ISDDelatte2026.pdf))\
+$~$ 2026, (New version!)
 
-\[2\] Integrated square of a density: semiparametric inference beyond the $o_p(n^{-1/4})$ rule\
-$~$ 2025, (New version coming soon!)
+\[2\] [Existence of maximin priors and statistical minimax theorems](/files/MinimaxDelatteRevisedMarch2026v2.pdf)\
+$~$ 2026, Reject and resubmit, *Electronic Journal of Statistics* (New version!)
 
 \[1\] [The role of unobservables in statistics and econometrics](/files/UnobservablesDelatte2025.pdf)\
  $~$ 2025, (New version coming soon!)
