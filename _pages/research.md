@@ -15,8 +15,8 @@ $~$ May 2026, **New paper**
 $~$ March 2026, **New version with new results**\
 $~$ Previous version: Reject and resubmit, *Electronic Journal of Statistics*
 
-\[1\] [The role of unobservables in statistics and econometrics](/files/UnobservablesDelatte2025.pdf)\
- $~$ 2025, New version coming soon
+\[1\] [Statistical models: phenomenological and theoretical](/files/StatModelDelatte2026.pdf)\
+ $~$ June 2026, **New paper**
 
 ## Work in progress
 
