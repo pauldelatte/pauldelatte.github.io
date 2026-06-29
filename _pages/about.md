@@ -22,7 +22,7 @@ I specialize in econometric theory. My [research projects](https://pauldelatte.g
 My CV is available [here](https://pauldelatte.github.io/cv/). 
 -->
 
-## Selected working papers
+## Selected papers
 
 \[1\] [Existence of maximin priors and statistical minimax theorems](/files/MinimaxDelatteRevisedv2.pdf)\
 $~$ March 2026, **New version with new results**\
