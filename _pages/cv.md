@@ -17,10 +17,7 @@ redirect_from:
 ## Selected work experiences
 
 * Teaching Assistant in Economics, [University of Southern California](https://dornsife.usc.edu/econ/home/), 2023–2026
-  - ECON 609 - Econometric Methods (PhD)
-  - ECON 611 - Probability and Statistics for Economists (PhD)
-  - ECON 513 - Practice of Econometrics (Master)
-  - ECON 480 - Economics of Industrial Organization (B.Sc.)
+  - ECON 609 - Econometric Methods (PhD), ECON 611 - Probability and Statistics for Economists (PhD), ECON 513 - Practice of Econometrics (Master), ECON 480 - Economics of Industrial Organization (B.Sc.)
 * Research Assistant in Economics, [Stanford University](https://www.stanford.edu/), 2023–2023
   - Blind replication of the paper ["The Zero-Beta Interest Rate"](https://gsb-faculty.stanford.edu/benjamin-hebert/files/2024/02/TheZeroBetaRate_v8.pdf) (2024) on behalf of [Sebastian Di Tella](https://gsb-faculty.stanford.edu/sebastian-di-tella/), [Benjamin Hébert](https://gsb-faculty.stanford.edu/benjamin-hebert/), [Pablo Kurlat](https://sites.google.com/view/pkurlat/home), and [Qitong Wang](https://qitongwang.github.io/)
   - Tools: Factor models, Beta-sorting, cuGMM, Ledoit–Wolf covariance estimaton
@@ -32,15 +29,15 @@ forecasting under the supervision of [Simone Manganelli](https://www.simonemanga
 
 ## Awards and scholarships
 
-USC Economics Department: Dissertation Fellowship (2026–2027), Summer Research Award (2024–2026), Outstanding 3rd Year Paper Award (2025)
+[USC Economics Department](https://dornsife.usc.edu/econ/home/): Dissertation Fellowship (2026–2027), Summer Research Award (2024–2026), Outstanding 3rd Year Paper Award (2025)
 
-USC Dornsife College of Letters, Arts and Sciences: PhD Fellowship (2021–2026)
+[USC Dornsife College of Letters, Arts and Sciences](https://dornsife.usc.edu/econ/home/): PhD Fellowship (2021–2026)
 
 ## Presentations
 
-Séminaires Probabilités et Statistiques at the Mathematics Department of Orsay (January 2026)
+Séminaires Probabilités et Statistiques at the [Mathematics Department of Orsay](https://www.imo.universite-paris-saclay.fr/en/) (January 2026)
 
-Causal Inference Brown Bag at the USC Marshall School of Business (March 2024)
+Causal Inference Brown Bag at the [USC Marshall School of Business](https://www.marshall.usc.edu/departments/data-sciences-and-operations) (March 2024)
 
 ## Languages
 
