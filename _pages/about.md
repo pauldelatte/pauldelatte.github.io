@@ -27,10 +27,8 @@ My CV is available [here](https://pauldelatte.github.io/cv/).
 1. [Existence of maximin priors and statistical minimax theorems](/files/MinimaxDelatteRevisedv2.pdf)\
 $~$ March 2026, **New version with new results**\
 $~$ Previous version: Reject and resubmit, *Electronic Journal of Statistics*
-
 2. [Integrated square of a density: semiparametric inference beyond the $o_p(n^{-1/4})$ rule](/files/ISDDelatte2026.pdf)\
 $~$ May 2026, **New paper**
-
 3. [Statistical models: phenomenological and theoretical](/files/StatModelDelatte2026.pdf)\
  $~$ June 2026, **New paper**
 
