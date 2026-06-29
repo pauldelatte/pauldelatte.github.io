@@ -30,6 +30,18 @@ forecasting under the supervision of [Simone Manganelli](https://www.simonemanga
   - Network analysis of the European repo market (SFT data) with [Peter Hoffmann](https://sites.google.com/site/hoffmannp/home)
   - Tools: Quantile VAR, Impulse response functions, VAR forecasting
 
+## Awards and scholarships
+
+USC Economics Department: Dissertation Fellowship (2026–2027), Summer Research Award (2024–2026), Outstanding 3rd Year Paper Award (2025)
+
+USC Dornsife College of Letters, Arts and Sciences: PhD Fellowship (2021–2026)
+
+## Presentations
+
+Séminaires Probabilités et Statistiques at the Mathematics Department of Orsay (January 2026)
+
+Causal Inference Brown Bag at the USC Marshall School of Business (March 2024)
+
 ## Languages
 
 English (fluent), French (native), Spanish (basic), German (basic)
