@@ -51,7 +51,7 @@ This is a collection of notes I wrote to (re-)familiarize myself with some topic
 
 This is the list of classes I was a TA for at USC during my PhD. I was also in charge of organizing review sessions on mathematics, Stata, and Python.
 
-- ECON611 - Probability and Statistics for Economists (PhD) - Fall 2023, Fall 2024, Fall 2025
-- ECON513 - Practice of Econometrics (Master) - Fall 2023, Fall 2024, Spring 2025, Fall 2025
-- ECON609 - Econometric Methods (PhD) - Spring 2024, Spring 2026
+- ECON611 - Probability and Statistics for Economists (Ph.D.) - Fall 2023, Fall 2024, Fall 2025
+- ECON513 - Practice of Econometrics (M.Sc.) - Fall 2023, Fall 2024, Spring 2025, Fall 2025
+- ECON609 - Econometric Methods (Ph.D.) - Spring 2024, Spring 2026
 - ECON480 - Economics of Industrial Organization (B.Sc.) - Spring 2026
