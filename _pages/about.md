@@ -12,7 +12,7 @@ I am a Ph.D. candidate in [Economics](https://dornsife.usc.edu/econ/home/) at th
 
 I specialize in econometrics with a focus on decision theory, minimax and robust Bayesian problems, semiparametric inference, and prediction evaluation. The main applications of my research are in causal inference and macroeconometrics.
 
-**I am on the job market during the 2026–2027 academic year.**
+**I am on the 2026–2027 job market.**
 
 <!--
 I specialize in econometric theory. My [research projects](https://pauldelatte.github.io/research/) tackle statistical and optimization problems commonly encountered in causal inference and forecasting.
