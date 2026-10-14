@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in [Economics](https://dornsife.usc.edu/econ/home/) at the [University of Southern California](https://www.usc.edu/).
+I am a Ph.D. candidate in [Economics](https://dornsife.usc.edu/econ/home/) at the [University of Southern California](https://www.usc.edu/).
 
-I specialize in econometrics with a focus on decision theory, minimax and robust Bayesian problems, semiparametric inference, and prediction evaluation.
+I specialize in econometrics with a focus on decision theory, minimax and robust Bayesian problems, semiparametric inference, and prediction evaluation. The main applications of my research are in causal inference and macroeconometrics.
 
-**I will be on the job market during the 2026–2027 academic year.**
+**I am on the job market during the 2026–2027 academic year.**
 
 <!--
 I specialize in econometric theory. My [research projects](https://pauldelatte.github.io/research/) tackle statistical and optimization problems commonly encountered in causal inference and forecasting.
@@ -24,7 +24,7 @@ My CV is available [here](https://pauldelatte.github.io/cv/).
 
 ## Job market paper
 
-Adaptive bias--variance trade-off: a $\Gamma$-minimax approach
+Adaptive bias--variance trade-off: a robust Bayesian approach
 
 ## Selected papers
 

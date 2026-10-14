@@ -8,7 +8,7 @@ redirect_from:
 
 ## Job market paper
 
-Adaptive bias--variance trade-off: a $\Gamma$-minimax approach
+Adaptive bias--variance trade-off: a robust Bayesian approach
 
 ## Working papers
 
