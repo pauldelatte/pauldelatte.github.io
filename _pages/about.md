@@ -24,7 +24,7 @@ My CV is available [here](https://pauldelatte.github.io/cv/).
 
 ## Job market paper
 
-Adaptive bias--variance trade-off: a robust Bayesian approach
+[Adaptive bias--variance trade-off: a robust Bayesian approach](/files/JMPPaulDelatte.pdf)
 
 ## Selected papers
 

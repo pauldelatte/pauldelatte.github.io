@@ -8,7 +8,7 @@ redirect_from:
 
 ## Job market paper
 
-Adaptive bias--variance trade-off: a robust Bayesian approach
+[Adaptive bias--variance trade-off: a robust Bayesian approach](/files/JMPPaulDelatte.pdf)
 
 ## Working papers
 
