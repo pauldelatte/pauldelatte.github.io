@@ -26,8 +26,6 @@ My CV is available [here](https://pauldelatte.github.io/cv/).
 
 [Adaptive bias--variance trade-off: a robust Bayesian approach](/files/JMPPaulDelatte.pdf)
 
-**Abstract**: We tackle the problem of combining an unbiased but noisy estimator with a biased but informative estimator when the bias is unknown. As a main application, we aim to improve a causal effect estimator from a small-scale randomized controlled trial (RCT) using an estimator from a large-scale observational study. We show that the problem can be solved comprehensively within a robust Bayesian framework in which Nature adversarially chooses a prior on the parameter and the bias. We prove that a unique robust Bayes estimator exists for any fixed set of priors. To achieve adaptation when the set is unknown, we develop both a minimax regret approach that minimizes worst-case regret relative to an oracle knowing the set and an empirical Bayes approach that calibrates the set directly from the data. The solutions provide a transparent foundation for the problem, nesting prominent adaptive estimators as special cases and yielding computationally advantageous extensions from simple Bayesian primitives. We illustrate the practical utility of the results by combining estimators of the effect of class-size reduction on student test scores obtained from small-scale RCTs in Tennessee (Project STAR) and large-scale observational studies in California and Connecticut.
-
 ## Selected papers
 
 1. [Existence of maximin priors and statistical minimax theorems](/files/MinimaxDelatteRevisedv2.pdf)\
